@@ -8,3 +8,8 @@
 今天刷了一些关于蓝桥杯的算法题
 然后学习了PyTorch中的Dataset以及TensorBoard，关于我对他们的理解都在pycharm中进行了注释
 今天比较顺利，只骂了一次豆包
+
+3.21
+两天比较忙断掉了
+今天继续学习pytorch，具体内容在pycharm我做了详解
+不出意外下周就能解决掉pytorch
